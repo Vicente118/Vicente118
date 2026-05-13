@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vicente</h1>
 <h3 align="center">Passionate about offensive cybersecurity and low level programming</h3>
 
-- 🔭 I’m currently working on **CPTS Certification**
+- 🔭 I’m currently working on **BSCP Certification**
 
 - 📫 How to reach me **vdarras27@gmail.com**
 
